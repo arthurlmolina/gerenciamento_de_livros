@@ -1,4 +1,4 @@
-package controllers;
+package com.example.gerenciamento_de_livros.controllers;
 
 
 import com.example.gerenciamento_de_livros.models.LivroModel;
